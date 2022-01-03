@@ -890,7 +890,7 @@
                 0
               ],
               "identifier" : "9A2014FE-F636-46DC-B2EB-D68444447F72",
-              "material" : "concrete",
+              "material" : "ice",
               "overrides" : {
                 "children" : {
                   "2D06DA3C-8780-4494-890E-4229DA86B8A3" : null,
